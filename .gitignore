@@ -1,5 +1,6 @@
 *.RDS
 *.txt
 ./ngrams/*
+!nb.txt
 ./final/*
 .Rproj.user
